@@ -29,7 +29,7 @@ This is the dataset which contains the details and locations of Pre-submission C
 
 *Reference*
 ```
-Gupta, A. (2015). PreSubmission_community_meetings_and_bus_routes [Data CSV file]. Available from https://github.com/akhil381/INFM600/
+Gupta, A. (2015). Bus_Connectivity_to_community_meetings [Data CSV file]. Available from https://github.com/akhil381/INFM600/
 ``` 
 
 	
