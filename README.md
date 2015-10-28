@@ -71,8 +71,6 @@ The data in the INFM600 repository by Akhil Gupta is licensed under a Creative C
 
 Credits
 -------
-<<<<<<< HEAD
+
 Akhil Gupta.
-=======
-Akhil Gupta.
->>>>>>> origin/master
+
