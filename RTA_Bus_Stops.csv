@@ -1,0 +1,806 @@
+stop_id,stop_name,stop_lat,stop_lon,stop_code
+1,Laurel Mall,39.09377258,-76.86021669,1
+2,Ashford Blvd @ Courtland Pl,39.09620048,-76.86118772,2
+3,Ashford Blvd @ Fenwick Ct,39.09525539,-76.86338587,3
+4,Ashford Blvd @ Ashford Ct,39.09352438,-76.86485331,4
+5,Cherry Ln @ Ashford Blvd,39.093079,-76.865433,5
+6,Cherry Ln @ Belle Ami Dr,39.09372952,-76.87136818,6
+8,Cherry Ln @ Kalmia Dr,39.09411033,-76.87402001,8
+9,Van Dusen Rd @ Cherry Ln,39.09385131,-76.87584617,9
+10,Van Dusen Rd @ Olive Branch Way,39.08959657,-76.87653087,10
+11,Laurel Regional Hospital,39.08646625,-76.88090007,11
+13,Contee Rd @ Belle Chasse Blvd,39.07922319,-76.87908198,13
+14,Contee Rd @ US 1,39.07667517,-76.87064179,14
+16,Contee Rd @ Larchdale Rd,39.07356582,-76.86034518,16
+17,Contee RD @ Edinburgh Ln,39.07350047,-76.85346833,17
+18,Contee Rd @ Deerfield Rd,39.07345667,-76.85088333,18
+19,Route 197 @ Contee Rd,39.07426942,-76.84790703,19
+20,Route 197 @ Snowhill Estates Ln,39.07622443,-76.84844656,20
+21,Parkview @ Briarcroft Ln,39.07876048,-76.84448528,21
+22,Route 197 Park & Ride,39.07827667,-76.84722667,22
+23,Route 197 @ Town Center Blvd,39.07586952,-76.84864436,23
+24,Route 197 @ Contee Rd,39.07335335,-76.84769417,24
+25,Route 197 @ Montpelier Dr,39.06954297,-76.84256492,25
+26,Route 197 @ Muirkirk Rd,39.0643288,-76.83966328,26
+27,South Laurel DR @ Route 197,39.05114271,-76.837204,27
+28,The Tabernacle Learning Academy Elementary School ,39.04854484,-76.83785177,28
+29,S Laurel Dr @ Laurelwalk Dr S,39.0462289,-76.8376962,29
+30,S Laurel Dr @ Route 197,39.05134701,-76.83680164,30
+31,Route 197 @ Mallard Dr,39.05623873,-76.83797426,31
+32,Route 197 @ Muirkirk Rd,39.06524863,-76.83951908,32
+33,Route 197 @ Brockbridge Rd,39.07045041,-76.84332126,33
+39,Contee Rd @ Arden Way,39.07362051,-76.85139998,39
+40,Contee Rd @ Edinburgh Ln,39.07361047,-76.85357741,40
+41,Contee Rd @ Larchdale Rd,39.07367328,-76.86031584,41
+43,Contee Rd @ US 1,39.0766845,-76.8699371,43
+44,Contee Rd @ Clarkwood Ln,39.07912114,-76.87777136,44
+46,Laurel Regional Hospital,39.08639835,-76.88082973,46
+47,Van Dusen Rd @ Killborron Dr,39.08894466,-76.87678151,47
+48,Van Dusen Rd @ Cherry Ln,39.09401788,-76.875705,48
+50,Cherry Ln @ Stratfield Ln,39.09397366,-76.87443903,50
+52,Cherry Ln @ Belle Ami Dr,39.09352175,-76.87151178,52
+53,Cherry Ln @ Cambridge Cir,39.09307106,-76.86739388,53
+54,Cherry Ln @ Ashford Way,39.09297032,-76.86571971,54
+56,Cherry Ln @ Laurel Lakes Pl,39.09196066,-76.85963482,56
+57,Cherry Ln @ Cherry Lane Ct,39.08886031,-76.85487018,57
+58,Cherry Lane Professional Park,39.08543011,-76.84912042,58
+59,Laurel Pines,39.08721924,-76.84678724,59
+60,Route 197 @ Clubhouse Blvd,39.08900668,-76.84614146,60
+61,Route 197 @ Greenview Dr,39.09135933,-76.8446818,61
+62,Route 197 @ Morris Dr,39.09324781,-76.84343233,62
+63,Route 198 @ Dutch Market,39.09518667,-76.83898833,63
+64,Laurel Racetrack,39.09779283,-76.83307381,64
+65,Route 198 @ Brock Bridge Rd,39.10053121,-76.82504227,65
+66,Route 198 @ Ethel Dr,39.10068071,-76.81976123,66
+69,Route 198 @ Corridor Marketplace,39.09788667,-76.80671833,69
+70,Walmart @ Russet Green East,39.1009859,-76.80269096,70
+74,Old Annapolis Rd @ Style Ave,39.099455,-76.81577833,74
+83,Route 198 @ Brock Bridge Rd,39.10061911,-76.82657909,83
+84,Laurel Racetrack,39.09842229,-76.83312098,84
+85,Route 198 @ Laurel Plaza,39.0959828,-76.83771547,85
+87,Route 197 @ Greenview Dr,39.09050938,-76.84554461,87
+88,Cherry Ln @ Kimberly Gardens,39.08564109,-76.84908606,88
+89,Cherry Ln @ Cherry Lane Ct,39.08919608,-76.85478034,89
+90,Cherry Ln @ US 1,39.09213938,-76.8584802,90
+92,4th St @ Laurel Lakes Pl,39.09266177,-76.86114781,92
+97,US 1 @ Laurel Ave,39.10057315,-76.84557072,97
+98,US 1 @ Little Montgomery Ave,39.10224301,-76.84380772,98
+99,US 1 @ Main St,39.10353731,-76.84244252,99
+100,Laurel Race Track,39.10639994,-76.83917712,100
+101,Midway Plaza,39.10922965,-76.8365644,101
+102,N 2nd St @ Davis Ave,39.11044869,-76.8360263,102
+103,Brewers Court,39.11446144,-76.83305675,103
+105,Whiskey Bottom Rd @ Glen Ridge Dr,39.12037808,-76.83765947,105
+106,Whiskey Bottom Rd @ Harmony Ln,39.12376167,-76.84134167,106
+107,Whiskey Bottom Rd @ All Saints Rd,39.12516795,-76.84310051,107
+108,All Saints Rd @ Bourbon St,39.12346275,-76.84453036,108
+109,All Saints Rd @ N Laurel Rd,39.121485,-76.84767,109
+110,All Saints Rd @ Whiskey Run Rd,39.12003249,-76.85014019,110
+112,All Saints Rd @ Naylor Ave,39.11646333,-76.85498167,112
+114,Pilgrim Ave @ Harvest Way,39.11096667,-76.854005,114
+115,7th St @ Main St,39.10928333,-76.85390833,115
+117,8th St @ Laurel Ave,39.10532289,-76.85694221,117
+118,8th St @ West St,39.10316834,-76.85740333,118
+119,8th St @ Montrose Ave,39.10058151,-76.85790876,119
+120,Montrose Ave @ 7th St,39.09863676,-76.85777239,120
+121,4th St @ Greenhill Ave,39.0966256,-76.85722471,121
+122,Laurel Mall,39.09514962,-76.85890258,122
+123,4th St @ Montrose Ave,39.09733167,-76.85628667,123
+124,4th St @ Marshall Ave,39.09853167,-76.85485333,124
+126,4th St @ Main St,39.10574476,-76.84799965,126
+127,Main St  @ C St,39.10515205,-76.84631061,127
+128,Washington Blvd @ Maier Rd,39.12106871,-76.82674872,128
+129,Savage II Industrial Park,39.1241153,-76.82428401,129
+130,Washington Blvd @ Freestate Dr,39.12688577,-76.82204572,130
+139,Savage Guilford Rd @ Baltimore St,39.13823726,-76.82405103,139
+140,Savage Guilford Rd @ Lincoln St,39.14063935,-76.82462565,140
+142,Vollmerhausen Rd @ Castleford Dr,39.14859333,-76.82045,142
+145,Guilford Rd @ Mission Rd,39.15643167,-76.821175,145
+146,Guilford Rd @ Stirling Bridge Dr,39.16182167,-76.82498833,146
+147,Oakland Mills Rd @ Guilford Rd,39.16415675,-76.83036479,147
+148,Guilford Rd @ Ridgeview Dr,39.16452341,-76.83334282,148
+149,Guilford Rd @ Gerwig Ln,39.16701189,-76.83905038,149
+150,Rivers Technology Park,39.16876448,-76.84447091,150
+151,Rivers Park,39.16948887,-76.84971839,151
+152,Guilford Rd @ Early April Way,39.1670999,-76.85413106,152
+153,Brokenland Pkwy Park and Ride,39.17484824,-76.85080857,153
+154,Brokenland Pkwy @ Snowden River Pkwy,39.17821667,-76.84768059,154
+155,Cradlerock Way @ Swan Point Way,39.18596555,-76.84130996,155
+156,Owen Brown Village Center,39.18657869,-76.84253108,156
+157,Cradlerock Way @ Smooth Path,39.18798133,-76.8399136,157
+158,Cradlerock Way @ Smooth Path,39.18851314,-76.83981741,158
+159,Cradlerock Way @ Talisman Ln,39.1898826,-76.838821,159
+160,Cradlerock Way @ Garland Ln,39.19397667,-76.83920167,160
+161,Cradlerock Way @ Frietchie Row,39.19250333,-76.843785,161
+162,East Columbia Library,39.19112083,-76.84669797,162
+163,Broken Land Pkwy @ Cradlerock Way,39.192035,-76.851375,163
+164,Woodside Ct @ Stevens Forrest Rd,39.19682333,-76.85335833,164
+166,Brokenland Pkwy @ Stevens Forest Rd,39.1981075,-76.85158384,166
+167,Broken Land Pkwy @ Hickory Ridge Rd,39.20703226,-76.86698093,167
+169,Columbia Mall,39.21455454,-76.86386602,169
+170,Broken Land Pkwy @ Hickory Ridge Rd,39.20713388,-76.86660376,170
+171,Brokenland Pkwy @ Stevens Forest Rd,39.19762888,-76.85181099,171
+173,Woodside Ct @ Humanim,39.19352167,-76.852455,173
+174,East Columbia Library,39.19116667,-76.845635,174
+175,Cradlerock Way @ Frietchie Row,39.19207167,-76.84397833,175
+176,Cradlerock Way @ Garland Ln,39.19415833,-76.83959833,176
+177,Cradlerock Way @ Talisman Ln,39.18973769,-76.83920647,177
+178,Cradlerock Way @ Smooth Path,39.18852895,-76.84000413,178
+179,Cradlerock Way @ Smooth Path,39.18794703,-76.84009747,179
+181,Brokenland Pkwy @ Cradlerock Way,39.18480767,-76.85050477,181
+182,Brokenland Pkwy @ Patuxent Woods Dr,39.17825271,-76.84821219,182
+184,Guilford Rd @ Early April Way,39.16698352,-76.85424175,184
+185,Rivers Park,39.16948455,-76.84947891,185
+186,Rivers Technology Park,39.16866018,-76.84458778,186
+187,Guilford Rd @ Gerwig Ln,39.16703881,-76.8387582,187
+188,Alberta Gary Memorial Church,39.16441395,-76.83322569,188
+189,Guilford Rd @ Oakland Mills Rd,39.16406608,-76.83101218,189
+190,Guilford Rd @ Stirling Bridge Dr,39.16146707,-76.82473361,190
+191,Entrance to Morningside Park,39.154375,-76.82006667,191
+192,Morningside Park,39.15523167,-76.820605,192
+193,Vollmerhausen Rd @ Willowwood Way,39.149015,-76.81837333,193
+194,Vollmerhausen Rd @ Rosewood Way,39.14867333,-76.82054333,194
+196,Savage Guilford Rd @ Lincoln St,39.14047998,-76.82444237,196
+206,Washington Blvd @ Freestate DR,39.12744898,-76.8219917,206
+207,Washington Blvd @ Lynn Buff Ct,39.12253144,-76.8258549,207
+208,Country Meadows Apts,39.11903425,-76.82902717,208
+209,US 1 North Laurel,39.11465063,-76.83331005,209
+210,Washington Blvd @ Hill St,39.11369664,-76.83431589,210
+211,Washington Blvd @ Madison Ave,39.10867993,-76.83882233,211
+218,4th St @ Montrose Ave,39.0973783,-76.85637451,218
+220,Laurel Lakes Pl @ Cherry Ln,39.09063387,-76.8595706,220
+221,Laurel Pl @ Mulberry St,39.08861645,-76.86094232,221
+222,Mulberry St @ Yardarm Way,39.08755431,-76.8646927,222
+223,Mulberry St @ Briston St,39.08428826,-76.86582624,223
+224,Cypress Street @ Mulberry Street,39.08298595,-76.86555772,224
+225,Laurel Lakes Senior Housing,39.08135833,-76.86709833,225
+226,US 1 @ Braygreen Rd,39.07820839,-76.86639372,226
+227,US 1 @ Contee Rd,39.07576445,-76.8689468,227
+228,US 1 @ Maryland Cemetery,39.07049419,-76.87488334,228
+229,Muirkirk Meadows Rd @ US 1,39.06100824,-76.88740091,229
+230,Muirkirk Meadows Rd @ Muirkirk Rd,39.06264018,-76.88904078,230
+231,Muirkirk MARC Station,39.06131309,-76.88354646,231
+232,FDA Muirkirk Campus,39.05557547,-76.86115678,232
+233,Muirkirk Rd @ Montpelier Dr,39.056325,-76.86572667,233
+234,Muirkirk RD @ Longwood Dr,39.05898,-76.878525,234
+235,Old BaltImore Pike @ Distribution Dr,39.05546986,-76.88515676,235
+238,Industrial Drive,39.05118247,-76.8888192,238
+239,Old BaltImore Pike @ Ammendale Rd,39.04898641,-76.89066591,239
+240,Edmondston Rd @ Old Baltimore Pike,39.04044834,-76.89871,240
+241,Edmondston Rd @ Hammett St,39.035665,-76.89857,241
+242,Kenilworth Ave @ Crescent Rd,39.00681155,-76.89268694,242
+244,College Park/UMD Metrorail Station,38.97814806,-76.92757967,244
+245,Kenilworth Ave @ Crescent Rd,39.00699043,-76.89201637,245
+246,Edmondston Rd @ Hammett St,39.03565898,-76.89836685,246
+247,Edmondston Rd @ Armand Boyd Way,39.04005167,-76.89845833,247
+248,Old BaltImore Pike @ Ammendale Way,39.04702167,-76.89204333,248
+249,Old BaltImore Pike @ Ammendale Rd,39.04860667,-76.890705,249
+250,Industrial Drive,39.05083167,-76.88884333,250
+253,Distribution Dr @ Old BaltImore Pike,39.05542054,-76.88501928,253
+257,Muirkirk MARC Station,39.06151833,-76.88338167,257
+258,Muirkirk Meadows Rd @ Muirkirk Rd,39.06291942,-76.8892543,258
+259,Muirkirk Meadows Rd @ US 1,39.061225,-76.88804333,259
+260,US 1 @ Maryland Cemetery,39.07077,-76.87429558,260
+261,US 1 @ Contee Rd,39.0772848,-76.86689759,261
+265,Mulberry St @ Briston St,39.08437667,-76.865555,265
+266,Mulberry St @ Yardarm Way,39.08698488,-76.8647054,266
+267,Mulberry St @ Laurel Pl,39.0880132,-76.86202904,267
+268,Cherry Ln @ 4th St,39.09268463,-76.86363877,268
+269,Van Dusen Rd @ Erica Ln,39.09695811,-76.87433475,269
+270,Van Dusen Rd @ Alan Ln,39.09925448,-76.8723654,270
+271,Old Sandy Spring Rd @ Van Dusen Rd,39.10420737,-76.87005162,271
+272,Old Sandy Spring Rd @ West St,39.10483858,-76.86665569,272
+273,Old Sandy Spring Rd @ Westview Ter,39.10600946,-76.86364927,273
+274,Montgomery St @ 9th St,39.10707952,-76.85853568,274
+275,Montgomery St @ 8th St,39.10662362,-76.85682754,275
+276,7th St @ Main St,39.10819667,-76.85414667,276
+277,Main St @ Brashears St,39.10719555,-76.85087996,277
+280,Washington Blvd @ Compton Ave,39.09893959,-76.84908842,280
+281,Laurel College Center,39.0971096,-76.85160671,281
+282,US 1 @ Muirkirk Meadows Dr,39.06090833,-76.88683833,282
+283,US 1 @ Ritz Way,39.05743,-76.89050667,283
+284,US 1 @ Ammendale Rd,39.05377057,-76.89429436,284
+285,US 1 @ Quimby Ave,39.04715033,-76.90078663,285
+286,US 1 @ Lincoln Ave,39.04513998,-76.90216924,286
+287,US 1 @ Odell Rd,39.04153418,-76.90423678,287
+288,US 1 @ Powdermill Rd,39.0352455,-76.9072275,288
+289,US 1 @ Sellman Rd,39.0337193,-76.90919054,289
+290,US 1 @ Southard Dr,39.03190501,-76.91182439,290
+291,Rhode Island Ave @ US 1,39.02876334,-76.91581,291
+292,Sunnyside Ave @ Rhode Island Ave,39.02443161,-76.91508473,292
+293,Sunnyside Ave @ Tucker St,39.02310172,-76.90959567,293
+294,Cherrywood Ln @ Edmonston Ave,39.01041428,-76.89570393,294
+295,Cherrywood Ln @ Ivy Ln,39.01001039,-76.89843291,295
+296,Greenbelt Metro Dr Entrance,39.01142768,-76.90435347,296
+297,Greenbelt Metrorail Station,39.01200207,-76.90959575,297
+298,Greenbelt Metro Dr Exit,39.01139376,-76.90441743,298
+299,Cherrywood Ln @ Breezewood Dr,39.00216333,-76.90996333,299
+300,Greenbelt Plaza,38.9994144,-76.91177525,300
+301,Greenbelt Plaza,38.99963867,-76.91154778,301
+302,Cherrywood Ln @ Breezewood Dr,39.00207474,-76.9097219,302
+303,Cherrywood Ln @ Cherrywood Ct,39.00495167,-76.907575,303
+307,Cherrywood Ln @ Ivy Ln,39.00991039,-76.89840118,307
+308,Cherrywood Ln @ Edmonston Ave,39.01041588,-76.89533108,308
+309,Sunnyside Ave @ Tucker St,39.02323088,-76.90928163,309
+310,Sunnyside Ave @ Rhode Island Ave,39.02453123,-76.91500222,310
+311,Rhode Island Ave @ US 1,39.02895333,-76.91552833,311
+312,US 1 @ Powdermill Rd,39.03416,-76.90818607,312
+314,US 1 @ Ritz Way,39.056645,-76.89095333,314
+315,US 1 @ Muirkirk Meadows Dr,39.06096076,-76.8863787,315
+317,Arundel Mills Blvd @ Milestone Pkwy,39.15351,-76.74282,317
+318,Arundel Mills Blvd @ Rotherham Dr,39.15145307,-76.73393491,318
+319,Arundel Mills BLVD @ Arundel Mills Cir,39.15266042,-76.7293297,319
+320,Arundel Mills Mall,39.15390334,-76.72461167,320
+325,Dorsey Rd @ Hawkins Ln,39.15896854,-76.68995531,325
+326,Dorsey Rd @ Old Telegraph Rd,39.15987017,-76.68388301,326
+327,Dorsey Rd @ Connelley Dr,39.16076,-76.68121333,327
+328,Dorsey Rd @ McCormick Dr,39.16195449,-76.67456312,328
+329,Dorsey Rd @ WB&A Rd,39.1625375,-76.6682018,329
+330,Dorsey Rd @ Stewart Ave,39.16448604,-76.64721533,330
+331,Dorsey Rd @ Pascal Senior Center,39.16819167,-76.63591667,331
+332,Cromwell Light Rail Station,39.17196931,-76.63325611,332
+333,B&A Blvd @ Maple Ave NW,39.16756105,-76.62757489,333
+335,B&A Blvd @ Crain Hwy North,39.16500441,-76.62521339,335
+337,B&A Blvd @ Glen Rd,39.15990152,-76.61406408,337
+338,B&A Blvd @ Chester Cir,39.15825833,-76.609875,338
+339,B&A Blvd @ Marley Neck RD,39.15080013,-76.5946995,339
+340,B&A Blvd @ Sumac Rd,39.14721429,-76.59250608,340
+341,B&A Blvd @ Phyllis Dr,39.14392358,-76.5905543,341
+342,B&A Blvd @ Faywood Ave,39.1409118,-76.58878585,342
+343,B&A Blvd @ Castle Harbour Way,39.13735209,-76.58659188,343
+344,New Freetown Rd @ Freetown Rd,39.13626654,-76.57758797,344
+346,New Freetown Rd @ Freetown Rd,39.1364472,-76.57766475,346
+347,Mountain Rd @ Long Hill Rd,39.13367322,-76.58158637,347
+348,Westbound B&A BLVD @ Sun Valley Shopping Ctr,39.13552951,-76.58526218,348
+349,B&A Blvd @ Faywood Ave,39.140875,-76.58851667,349
+350,B&A Blvd @ Marley Station Rd,39.14767656,-76.59262767,350
+351,B&A Blvd @ Queen Anne Rd,39.15172757,-76.59526475,351
+352,B&A Blvd @ Harding Ave,39.15886038,-76.61095239,352
+353,B&A Blvd @ Kuethe Rd,39.16132423,-76.61737328,353
+356,B&A Blvd @ Crain Hwy North,39.16554333,-76.62553,356
+357,B&A Blvd @ Maple Ave NW,39.16738991,-76.62726092,357
+359,Dorsey Rd @ Pascal Senior Center,39.168925,-76.634545,359
+360,Dorsey Rd @ Aviation Blvd,39.16460939,-76.6480925,360
+361,Dorsey Rd @ WB&A Rd,39.16291624,-76.66687421,361
+362,Dorsey Rd @ McCormick Dr,39.16243834,-76.67290833,362
+363,Dorsey Rd @ Connelley Dr,39.16116667,-76.68021,363
+364,Dorsey Rd @ Old Telegraph Rd,39.16009998,-76.68387895,364
+365,Dorsey Rd @ Mulberry Rd,39.15921333,-76.68836,365
+370,Arundel Mills Blvd @ Somerton Ct,39.15199956,-76.73344734,370
+371,Arundel Mills Blvd @ Flaxpool Ct,39.15058505,-76.73926758,371
+372,Arundel Mills Blvd @ Milestone Pkwy,39.15369721,-76.74247077,372
+373,Route 198 @ Russett Green East,39.09837074,-76.8071451,373
+375,Route 198 @ Whiskey Bottom Rd,39.10055977,-76.81650103,375
+376,Route 198 @ Old Line Ave,39.1010979,-76.82131224,376
+378,Maryland Live! Casino,39.15947519,-76.72660705,378
+383,Ridge Rd @ Stoney Run Rd,39.14858165,-76.7245663,383
+385,Ridge Rd @ Bastille Pl,39.14095334,-76.73068095,385
+386,Ridge Rd @ Metacomet Rd,39.13653921,-76.73452195,386
+387,Ridge Rd @ Christiana Ct,39.1319859,-76.73683084,387
+388,Route 175 @ Disney Rd,39.12783195,-76.7356948,388
+389,Route 175 @ Reece RD,39.11429412,-76.72544349,389
+390,Charter Oaks Blvd @ Route 175,39.10508987,-76.72180246,390
+391,Charter Oaks Blvd @ Commodore Dr,39.10601,-76.717845,391
+392,Charter Oaks Blvd @ Town Center Blvd,39.10848952,-76.71283902,392
+393,Jacobs Rd @ Stillmeadow Dr,39.11402667,-76.70923333,393
+394,Pioneer Dr @ Richfield Dr,39.11533169,-76.70563763,394
+395,Pioneer Dr @ Arwell Ct,39.1172729,-76.70647364,395
+396,Pioneer Dr @ Deerfield Ct,39.11960672,-76.70824991,396
+397,Reece Rd @ Pioneer Dr,39.12115055,-76.70856679,397
+398,Meade Village Rd @ Fairbrook Ct,39.12443742,-76.70343961,398
+399,Meade Village RD @ Meade Village CIR,39.12595045,-76.70542242,399
+402,Snowden River Pky @ Parkview,39.19934875,-76.80799326,402
+403,Snowden River Pky @ April Brook Cir,39.1989164,-76.80774649,403
+414,Annapolis Rd @ Winmeyer Ave,39.08857441,-76.70095877,414
+415,Odenton MARC Station (West Platform),39.08774416,-76.70706628,415
+416,Route 175 @ Winmeyer Ave,39.08875273,-76.70184767,416
+417,Odenton Rd @ Stoney Hill Ct,39.08116754,-76.6948749,417
+418,Odenton Rd @ Bruce Ave,39.08069603,-76.69372214,418
+419,Odenton Rd @ Greenwood St,39.07870898,-76.68662609,419
+421,Route 175 @ Odenton Health Campus,39.08111635,-76.68845971,421
+422,Odenton Rd @ Holiday St,39.07932212,-76.68866162,422
+423,Odenton Rd @ Bruce Ave,39.08047071,-76.69258118,423
+424,Odenton Rd @ Oakton Rd,39.0814972,-76.69508146,424
+425,Odenton Rd @ Odenton Elementary School,39.08268164,-76.69702005,425
+444,Reece Rd @ Pioneer Dr,39.12145685,-76.70807753,444
+445,Pioneer Dr @ Deerfield Ct,39.11958231,-76.70854838,445
+446,Pioneer Dr @ Arwell Ct,39.11732845,-76.70679132,446
+447,Pioneer Dr @ Richfield Dr,39.1154661,-76.7057486,447
+448,Jacobs Rd @ Stillmeadow Dr,39.1142,-76.70957667,448
+449,Town Center Blvd @ Charter Oaks Blvd,39.10837167,-76.71305333,449
+450,Charter Oaks Blvd @ Commodore Dr,39.10630333,-76.717425,450
+451,Charter Oaks Blvd @ Route 175,39.10524945,-76.72188234,451
+452,Route 175 @ Reece RD,39.11396967,-76.72695039,452
+453,Route 175 @ 20th St,39.11793182,-76.72953045,453
+454,Route 175 @ Severn Square Shopping Ctr,39.12950442,-76.73697208,454
+455,Ridge Rd @ Severn Library,39.13143924,-76.73719466,455
+456,Ridge Rd @ Stone Castle Dr,39.13621089,-76.73436326,456
+457,Ridge Rd @ Bastille Pl,39.14080971,-76.73065017,457
+459,Ridge Rd @ Stoney Run Rd,39.14813905,-76.72470287,459
+460,Ridge Rd @ Thames River Dr,39.15040611,-76.72223936,460
+467,Waugh Chapel RD @ Old Waugh Chapel Rd,39.06746197,-76.70622188,467
+476,Strawberry Lake Way @ Piney Orchard Pkwy,39.0638555,-76.72190617,476
+477,Piney Orchard Pkwy @ Piney Orchard Village Ctr,39.06649448,-76.72000303,477
+478,Odenton MARC Station (East Platform),39.08717848,-76.70529872,478
+479,Montrose Ave @ 7th St,39.09876369,-76.85774739,479
+480,8th St @ West St,39.10317215,-76.85723943,480
+481,8th St @ Montgomery St,39.10520115,-76.85678157,481
+487,Harvest Way @ Riverbank Ct,39.11239,-76.85473833,487
+488,Harvest Way @ Mayflower Ct,39.11206682,-76.85476884,488
+489,All Saints Rd @ N Laurel Rd,39.12134676,-76.84752037,489
+490,North Laurel Community Center,39.11607483,-76.83676084,490
+491,Whiskey Bottom Rd @ All Saints Rd,39.1243203,-76.84164927,491
+493,Whiskey Bottom Rd @ Glen Ridge Dr,39.12061333,-76.83774167,493
+494,Stephens Rd @ Boundless Shade Ter,39.12809833,-76.845475,494
+495,Stephens Rd @ Whiskey Bottom Rd,39.12810167,-76.845655,495
+496,Gorman Rd @ Shantha Ct,39.13529412,-76.84290253,496
+497,Gorman Rd @ Shantha Ct,39.13537833,-76.84275833,497
+498,Snowden River Pkwy @ Oakland Mills Rd,39.17897941,-76.82857847,498
+499,Snowden River Pkwy @ Rustling Leaf,39.17727805,-76.83228674,499
+500,Snowden River Pkwy @ Carved Stone Way,39.1759854,-76.83759818,500
+501,Snowden River Pkwy @ Minstrel Way,39.17672791,-76.8441572,501
+507,Broken Land Pkwy @ Cradlerock Way,39.19179699,-76.85192538,507
+508,Snowden River Pkwy @ Minstrel Way,39.17637642,-76.84389265,508
+509,Lincoln Tech North Entrance,39.17678345,-76.83254807,509
+510,Snowden River Pkwy @ Oakland Mills Rd,39.17869482,-76.82848417,510
+511,Dorsey Run Rd @ Guilford Rd,39.13097668,-76.79362435,511
+512,Dorsey Run Rd @ Giant Dr,39.13463098,-76.79303906,512
+513,Dorsey Run Rd @ Giant Dr,39.13426251,-76.79324132,513
+514,Dorsey Run Rd @ Guilford Rd,39.13097797,-76.79390394,514
+515,Cedar Ln @ Rock Coast Rd,39.21904454,-76.88815219,515
+517,Atholton Shopping Center,39.18389847,-76.87192329,517
+518,Shaker Dr @ Cape Ann Dr,39.17977153,-76.86758736,518
+519,Shaker Dr @ South Carlinda Ave,39.17933234,-76.85958186,519
+520,Shaker Dr @ South Carlinda Ave,39.17941339,-76.85949394,520
+521,Shaker Dr @ Cape Ann Dr,39.17991951,-76.86770375,521
+522,Atholton Shopping Center,39.18388705,-76.87177154,522
+523,Normandy Shopping Center,39.28620291,-76.80712232,523
+524,Howard County Health Department,39.28618893,-76.80889767,524
+525,Howard County Health Department,39.28616339,-76.80900217,525
+526,Normandy Shopping Center,39.28613236,-76.80722487,526
+527,Assateaque Dr @ Rappahannok Dr,39.16021101,-76.78153893,527
+531,Brokenland Pkwy @ Cradlerock Way,39.185772,-76.85057399,531
+533,Cedar Ln @ Harpers Farm Rd,39.22096675,-76.88833923,533
+534,Cedar Ln @ Little Patuxent Pkwy,39.21564572,-76.88740659,534
+535,Cedar Ln @ Rock Coast Rd,39.21762854,-76.88795608,535
+536,Righttime Medical Care,39.19711441,-76.88457442,536
+537,Centre Park Drive I,39.22681541,-76.81649875,537
+538,Centre Park Drive II,39.22684515,-76.81598729,538
+539,Clocktower Ln @ Clocktower Ln,39.16328394,-76.84598574,539
+540,Clocktower,39.16417377,-76.84932603,540
+541,Parkview at Colonial Landing,39.20254932,-76.73508079,541
+542,Columbia 100 PKWY @ Centre Park Dr,39.22863169,-76.8136354,542
+543,Columbia 100 Pkwy @ Centre Park Dr,39.22870931,-76.81342857,543
+544,Executive Park Dr @ Columbia 100 Pkwy,39.23532351,-76.81623293,544
+545,Columbia 100 PKWY @ Goose Landing Cir,39.23300501,-76.81601473,545
+546,Columbia 100 PKWY @ Goose Landing Cir,39.23224117,-76.81570056,546
+547,Columbia Crossing Ctr @ Old Navy,39.19820755,-76.81455268,547
+548,Columbia Crossing Ctr @ Target,39.19662722,-76.8126629,548
+551,Courthouse Dr,39.27561104,-76.80519512,551
+552,Columbia Rd @ Brook Way,39.22791568,-76.85587306,552
+553,Columbia Rd @ Brook Way,39.22797292,-76.85603514,553
+554,Columbia Rd @ Clarksville Pike,39.23891697,-76.84410861,554
+555,Columbia Rd @ Clarksville Pike,39.2387429,-76.84433425,555
+556,Government Center,39.27583014,-76.80504048,556
+557,Columbia Rd @ Tarkington Pl,39.23304573,-76.84663421,557
+558,Columbia Rd @ Ten Mills Rd,39.23061871,-76.85261831,558
+559,Columbia Crossing Ctr @ LaMadeline,39.19692066,-76.81529852,559
+560,Corridor Rd @ Greenwood Pl,39.13595903,-76.81201271,560
+561,Corridor Rd @ Bollman Pl,39.13192279,-76.80269765,561
+562,Corridor Rd @ Bollman Pl,39.13180484,-76.80279806,562
+563,Corridor Rd @ Junction Dr,39.12619869,-76.7977204,563
+564,Corridor Rd @ Larkin Rd,39.13614793,-76.81005698,564
+565,Corridor Rd @ Larkin Rd,39.13584292,-76.80927881,565
+568,Dobbin Center @ Ross,39.19430183,-76.81883484,568
+569,Dobbin Center,39.19540189,-76.81780765,569
+570,Dorsey Hall Professional Park,39.24320622,-76.83531171,570
+571,Dorseys Search,39.24388086,-76.84151126,571
+572,Pediatric Medical Center Entrance,39.24297504,-76.83779018,572
+573,Selbourne House,39.24676839,-76.83201417,573
+574,Dorsey MARC Station,39.18100426,-76.74604396,574
+575,Clifton T Perkins Hospital,39.14031499,-76.79334446,575
+576,Clifton T Perkins Hospital,39.14054449,-76.79316838,576
+577,Dorsey Search Village Center,39.2428144,-76.8419652,577
+579,Elkridge Corners Shopping Center,39.20723731,-76.72917419,579
+580,Howard County Library Ekridge Branch,39.20133109,-76.73612012,580
+582,Ellicott Mills Dr @ Main St,39.26918029,-76.80122468,582
+583,Ellicott Mills Dr @ Main St,39.26921776,-76.80104678,583
+584,Ellicott Mills Dr @ MT Ida Dr,39.27285662,-76.80376056,584
+585,Mount Ida,39.27270983,-76.80391293,585
+587,Corridor Rd @ Junction Dr,39.12621669,-76.79790501,587
+588,Executive Park Dr @ Columbia 100 Pkwy,39.23519215,-76.8159853,588
+589,Freetown Rd @ Fair Oaks Dr,39.18984015,-76.87987775,589
+590,Fair Oaks Dr @ Quarterstaff Rd,39.19225446,-76.87647747,590
+591,Shalom Square,39.20492707,-76.81685167,591
+592,Foreland Garth @ Tamar Dr,39.20717299,-76.8138249,592
+593,Savage Mill,39.13673594,-76.82529665,593
+594,Savage Mill,39.13693833,-76.82524667,594
+595,Main St @ Rogers Ave,39.26869204,-76.80965077,595
+596,Cedar Lane at Freetown Rd,39.19635913,-76.88461489,596
+597,Freetown Rd @ Cedar Ln,39.1961421,-76.88453882,597
+598,Freetown Rd @ Springing Step,39.18652919,-76.87869699,598
+599,Atholton,39.18794159,-76.8792728,599
+600,Freetown Rd @ Quarterstaff Rd,39.19328253,-76.88071351,600
+601,Freetown Rd @ Quarterstaff Rd,39.19351008,-76.88085873,601
+604,Guilford Rd @ Blue Sea Dr,39.16869043,-76.85967822,604
+605,Hammond Highschool,39.1688189,-76.86027874,605
+608,Guilford Rd @ Eden Brook Dr,39.17166962,-76.86629246,608
+609,Guilford Rd @ Eden Brook Dr,39.17184715,-76.86624567,609
+622,Guilford Rd @ Old Columbia Rd,39.17602979,-76.87003998,622
+623,Guilford Rd @ Old Columbia Rd,39.17603923,-76.86985621,623
+626,Harpers Choice Village Center,39.22282694,-76.8892113,626
+627,Harpers Farm Rd,39.22151102,-76.88948503,627
+628,Harpers Farm Rd @ Eliots Oak Rd,39.22184361,-76.88521916,628
+629,Harpers Farm Rd @ Eliots Oak Rd,39.22171338,-76.88516152,629
+630,Hickory Ridge Place,39.21049324,-76.88382556,630
+631,Sunny Spring Rd @ Hickory Ridge Rd,39.21052637,-76.88483874,631
+632,Sunny Spring @ Hickory Ridge Rd,39.2106382,-76.884978,632
+633,Cordage Walk,39.21101475,-76.88063728,633
+634,Hickory Ridge Rd @ Little Patuxent Pkwy,39.20956575,-76.89380024,634
+635,Hickory Ridge Rd @ Snowflake Ct,39.21056725,-76.88890299,635
+636,Hickory Ridge Village Center,39.19527611,-76.88394543,636
+637,High Tor Hill @ Drystraw Dr,39.2165136,-76.81509059,637
+638,High Tor Hill @ Drystraw Dr,39.21579108,-76.81499227,638
+639,High Tor Hill @ Eaglebeak Row,39.22086415,-76.81220749,639
+640,High Tor Hill @ Eaglebeak Row,39.22092945,-76.81234574,640
+641,High Tor Hill @ Phelps Luck Dr,39.22396538,-76.81758049,641
+642,High Tor Hill @ Phelps Luck Dr,39.22414961,-76.81772464,642
+643,Phelps Luck Dr @ High Tor Hill,39.2239465,-76.81835533,643
+644,Phelps Luck Dr @ High Tor Hill,39.22352044,-76.81875311,644
+645,High Tor Hill @ Tamar Dr,39.21266616,-76.81704863,645
+646,High Tor Hill @ Tamar Dr,39.21296916,-76.81709537,646
+647,Tamar Rd @ High Tor Hill,39.21258202,-76.81771403,647
+648,Tamar Rd @ High Tor Hill,39.21246398,-76.81776391,648
+649,Homespun Dr @ Angelina Cir,39.19026923,-76.83658978,649
+650,Homespun Dr @ Angelina Cir,39.19042274,-76.83661008,650
+651,Homespun Dr @ Pigeon Wing Pl,39.1908434,-76.83178182,651
+652,Homespun Dr @ Pigeon Wing Pl,39.19082309,-76.83219077,652
+655,Howard Community College,39.21411636,-76.88142845,655
+656,Little Patuxent Pkwy @ Harpers Farm Rd,39.21618414,-76.88094055,656
+657,Howard County General Hospital,39.21451868,-76.88441084,657
+658,Little Patuxent Pkwy @ Harpers Farm Rd,39.21662405,-76.88131167,658
+660,Howard County General Hospital,39.21361202,-76.88494013,660
+661,Kilimanjaro Rd @ Afternoon Ln,39.20670553,-76.83434179,661
+662,Kilimanjaro Rd @ Matador Rd,39.20646323,-76.83403251,662
+663,Oakland Mills Highschool,39.20750752,-76.83901858,663
+664,Oakland Mills Highschool,39.20812592,-76.83820125,664
+665,Kilimanjaro Rd @ Pamplona Rd,39.20651962,-76.84290622,665
+666,Kilimanjaro Rd @ Pamplona Rd,39.20639178,-76.8428435,666
+667,Kings Contrivance Village Center,39.16904821,-76.86535287,667
+669,Medical Plan,39.2244245,-76.84043068,669
+670,Lightning View Rd @ Thunderhill Rd,39.22063419,-76.83686291,670
+671,Little Patuxent PKWY @ Banneker RD,39.21387371,-76.87150363,671
+672,Little Patuxent Pkwy @ Governor Warfield Pkwy,39.22042465,-76.85871558,672
+673,Little Patuxent Pkwy @ Sterrett Pl,39.21908963,-76.8584166,673
+674,Little Patuxent Pkwy @ Sterrett Pl,39.21923255,-76.85899479,674
+675,Windstream Dr @ Loop Rd,39.21895041,-76.861615,675
+676,Columbia Mall @ Nordstrom,39.21785569,-76.86340003,676
+677,Columbia Mall @ Nordstrom,39.21808217,-76.86330146,677
+678,Little Patuxent Pkwy @ Green Meadow Dr,39.21207872,-76.89596967,678
+679,Little Patuxent Pkwy @ Blue February Way,39.20876131,-76.90104368,679
+680,Little Patuxent Pkwy @ Dark Fire Way,39.20602051,-76.8973315,680
+681,Little Patuxent Pkwy @ Swift Stream Pl,39.21211867,-76.85811236,681
+682,Howard County Library System,39.21148547,-76.85876537,682
+683,Little Patuxent Pkwy @ Wincopin Cir,39.21527929,-76.8577342,683
+684,Little Patuxent Pkwy @ Wincopin Cir,39.21527972,-76.85742535,684
+685,Pear Tree,39.21227263,-76.89181099,685
+686,Vantage Point,39.22385831,-76.85688645,686
+687,Running Brook,39.22467302,-76.85683109,687
+688,Phelps Luck Dr @ Lightspun Ln,39.2160909,-76.82128934,688
+689,Phelps Luck Dr @ Lightspun Ln,39.21617226,-76.82142549,689
+690,Phelps Luck Dr @ Tamar Dr,39.21373827,-76.82188711,690
+691,Phelps Luck Dr @ Tamar Dr,39.21374518,-76.82167742,691
+692,Tamar Dr @ Phelps Luck Dr,39.21346923,-76.82144984,692
+693,Tamar Dr @ Phelps Luck Dr,39.21332373,-76.82140992,693
+694,Plumtree Dr @ Harrington Dr,39.27579101,-76.83570964,694
+695,Plumtree Dr @ Harrington Dr,39.27583942,-76.83585219,695
+696,Plumtree Dr @ Joycin Ct,39.27343216,-76.83648009,696
+697,Plumtree Dr @ Joycin Ct,39.27335528,-76.83666324,697
+698,Quarterstaff Rd @ Martin Rd,39.1932602,-76.87098327,698
+699,Red Branch Rd @ Rumsey Rd,39.23135009,-76.81934477,699
+700,Red Branch Rd/Rumsey Rd,39.23139234,-76.81964532,700
+701,Red Branch Rd @ Old Annapolis Rd,39.22739662,-76.81977943,701
+702,Red Branch Rd @ Old Annapolis Rd,39.22764045,-76.81949677,702
+703,Red Branch Rd/MD 108,39.23066826,-76.8270621,703
+704,Red Branch Rd @ Old Annapolis Rd,39.23048485,-76.82692411,704
+706,Ridge Rd @ Ellicott Center Dr,39.27757127,-76.81391533,706
+707,Ridge Rd @ Ellicott Center Dr,39.27795462,-76.81446846,707
+708,Parkview @ Front Building,39.27806907,-76.81165714,708
+709,Parkview @ Rear Building,39.27885942,-76.81196624,709
+710,Lakeside Retail Center,39.19167554,-76.81808774,710
+711,North Ridge,39.2805011,-76.81713232,711
+713,Robert Fulton Dr @ Lee Deforest Dr,39.17600456,-76.81831985,713
+714,Robert Fulton Dr @ Lee Deforest Dr,39.17614742,-76.81820696,714
+715,Rogers Ave @ US 40,39.28195881,-76.80962141,715
+716,Rogers Ave @ Baltimore National Pike,39.28187159,-76.80984704,716
+717,Baltimore National Pike @ Rogers Ave,39.28228977,-76.81156013,717
+718,Rowanberry Dr @ Greenfield Rd,39.20752983,-76.73411099,718
+719,Rowanberry Dr @ Montgomery Rd,39.2104707,-76.73658299,719
+720,Rowanberry Dr @ Orchard Club Dr,39.2058618,-76.73486704,720
+721,San Tomas Rd @ Santa Barbara Ct,39.18906974,-76.74474304,721
+722,Santa Barbara Rd @ US Post Office,39.19002781,-76.74820902,722
+723,Savage MARC Station,39.1231933,-76.79611597,723
+726,Savage Guilford Rd @ Bollman Bridge,39.1463,-76.82644333,726
+727,Savage Guilford Rd @ Bollman Bridge,39.14617167,-76.82652833,727
+730,Amberton Dr @ Selnick Dr,39.18955924,-76.752312,730
+731,Amberton Dr @ San Tomas Rd,39.18729797,-76.74698069,731
+732,Snowden River Park and Ride,39.19298493,-76.81123821,732
+733,Snowden Square @ Commerce Center Dr,39.17857004,-76.82027176,733
+734,Columbia Rd @ Tarkington Pl,39.23355838,-76.84602042,734
+735,Heartlands at Ellicott City,39.29075941,-76.82123582,735
+736,Lakeside Office Center,39.19093875,-76.817087,736
+737,Lakeside Office Center,39.19084184,-76.81729169,737
+738,Stanford Blvd @ Dobbin Rd,39.19187579,-76.81871918,738
+739,Stanford Blvd @ Mc Gaw Rd,39.18913893,-76.81715048,739
+740,Stanford Blvd @ Mc Gaw Rd,39.18905332,-76.81738406,740
+741,Stevens Forest Rd @ Camelback Ln,39.20834709,-76.84797338,741
+742,Stevens Forest Rd @ Santiago Rd,39.20849069,-76.84779542,742
+743,Stevens Forest Rd @ Kilimanjaro Rd,39.20600951,-76.84726885,743
+744,Stevens Forest Rd @ Kilimanjaro Rd,39.2060775,-76.84702806,744
+745,Oakland Mills Village Center,39.2099845,-76.84660031,745
+746,Sunny Spring Rd @ Bright Plume,39.20498535,-76.8825157,746
+747,Sunny Spring Rd @ Slender Sky,39.2047559,-76.88206786,747
+748,Sunny Spring Rd @ Misty Arch Run,39.20772839,-76.88474206,748
+749,Sunny Spring Rd @ Owen Brown Rd,39.19920857,-76.88230528,749
+750,Sunny Spring Rd @ Owen Brown Rd,39.19916128,-76.88242102,750
+751,Tamar Dr @ Hayshed Ln,39.20957245,-76.81593699,751
+752,Tamar/Hayshed Ln,39.20972968,-76.81577443,752
+753,Long Reach,39.20728565,-76.81494521,753
+754,Cloudleap,39.20804227,-76.81628282,754
+755,Tamar/Flamepool,39.210708,-76.82390776,755
+756,Tamar/Flamepool,39.21066653,-76.8241165,756
+757,Thunderhill Rd @ Longlook Ln,39.2154308,-76.84055623,757
+758,Thunderhill Rd @ Longlook Ln,39.21530687,-76.840415,758
+759,Thunder Hill Rd @ Oakland Mills Rd,39.21841656,-76.84044933,759
+760,Thunder Hill Rd @ Twin Knolls Rd,39.2191513,-76.8400882,760
+761,Oakland Mills Rd @ Snowden River Pkwy,39.1795848,-76.82825077,761
+762,Oakland Mills Rd @ Snowden River Pkwy,39.17938482,-76.82832145,762
+763,Oceano Dr @ Assateaque Dr,39.15820395,-76.78034888,763
+764,Long Reach High School,39.20562935,-76.81226943,764
+765,Old Dobbin Ln @ Millrace Ct,39.20179364,-76.81299112,765
+766,Parkview at Owen Brown,39.18842321,-76.84224098,766
+768,Patuxent Range Rd @ Bristol Ct,39.14991944,-76.80154867,768
+770,Patuxent Range Rd @ Dorsey Run Rd,39.14581829,-76.79234195,770
+771,Patuxent Range Rd @ Stayton Dr,39.14901284,-76.8000115,771
+772,Patuxent Range Rd @ Stayton Dr,39.14870292,-76.79921157,772
+773,Phelps Luck Dr @ Billow Row,39.22059721,-76.8245795,773
+774,Phelps Luck Dr @ Halflight Garth,39.22105144,-76.82420133,774
+775,Main St @ Rogers Ave,39.26880043,-76.80959983,775
+776,Florence Bain Senior Center,39.22319893,-76.8883223,776
+777,Dorsey Rd @ Ridge Rd,39.15960467,-76.71401065,777
+778,Assateaque Dr @ Conowingo Dr,39.16289318,-76.78238119,778
+779,Dorsey Rd @ Ridge Rd,39.15892186,-76.71310204,779
+783,Washington Blvd @ Laurel  Ave,39.1013611,-76.84654254,783
+790,Laurel Mall,39.09405619,-76.86017695,790
+792,BWI Amtrak/MARC Station,39.19254659,-76.6942745,792
+793,BWI Business District Light Rail Station,39.19145948,-76.67312868,793
+794,BWI Airport,39.18180782,-76.66926834,794
+795,Thunder Hill Rd @ Timesweep Ln,39.21222266,-76.84140626,795
+796,Thunder Hill Rd @ White Acre Rd,39.21178361,-76.84175945,796
+797,White Acre Rd @ Basket Ring Dr,39.212077,-76.84546272,797
+798,White Acre Rd @ Basket Ring Dr,39.21216891,-76.84569389,798
+799,Toll House Rd @ Manahan Dr,39.26602635,-76.81852576,799
+800,Toll House Rd @ Manahan Dr,39.26599796,-76.81835838,800
+801,Toll House Rd @ Old Columbia Pike,39.2575374,-76.81814023,801
+802,Toll House Rd @ Old Columbia Pike,39.25745807,-76.818281,802
+803,Town and Country Blvd @ Rogers Ave,39.28719138,-76.81117696,803
+804,Seneca Dr @ Martin Rd,39.19000756,-76.87250807,804
+805,Town and Country Blvd @ Rogers Ave,39.28706284,-76.81119591,805
+806,Town and Country Blvd @ North Ridge Rd,39.28724691,-76.81994909,806
+807,Town and Country,39.28718013,-76.81625486,807
+808,Washington Blvd @ Troy Hill Dr,39.19513917,-76.74637967,808
+809,Washington Blvd @ Troy Hill Dr,39.19349916,-76.74937287,809
+810,Twin Rivers Rd @ Faulkner Ridge Cir,39.22056221,-76.87768577,810
+811,Twin Rivers,39.21970205,-76.87942958,811
+812,Cross Fox,39.21951886,-76.87944436,812
+813,Twin Rivers Rd @ Trumpeter Rd,39.21942243,-76.87037384,813
+814,Wilde Lake Interfaith Center,39.21914991,-76.87026484,814
+815,Windstream Dr @ Loop Rd,39.21940701,-76.86109555,815
+816,Washington Blvd @ Kit Kat Rd,39.17755773,-76.7730304,816
+819,Washington Blvd @ Cooney Ln,39.182885,-76.76558277,819
+820,Washington Blvd @ Cedar Ave,39.16759552,-76.7894428,820
+829,Washington Blvd @ Meadowridge Rd,39.18362106,-76.76398827,829
+830,Washington Blvd @ Meadowridge Rd,39.18385358,-76.76413824,830
+832,Washington Blvd @ Montevideo Rd,39.17493183,-76.77768331,832
+833,Columbia Rd @ Brook Way,39.22950283,-76.85407424,833
+834,Washington Blvd @ Blue Stream Dr,39.17688562,-76.77451607,834
+835,Baltimore National Pike @ St Johns Ln,39.27725962,-76.82770231,835
+836,Santa Barbara Rd @ Selnick Dr,39.19036064,-76.75054352,836
+837,Vollmerhausen Rd @ Birchwood Way,39.14927833,-76.818205,837
+841,Walmart @ N Ridge Rd,39.28264445,-76.81998454,841
+843,Wilde Lake Village Center,39.22014725,-76.87486503,843
+844,Murray Hill Rd @ Guilford Rd,39.16683263,-76.85117944,844
+846,Old Annapolis Rd @ Bendix Rd,39.23473604,-76.83060852,846
+847,Old Annapolis Rd @ Mellonbrook Rd,39.23458934,-76.83084651,847
+848,Martin Rd @ High Bench,39.18825615,-76.87278071,848
+849,Loop Rd @ Legg Mason,39.21306753,-76.86345158,849
+850,Loop Rd @ Mall Access Rd,39.21292601,-76.86336922,850
+851,Longwood Apts,39.20530548,-76.81733817,851
+852,Long Gate Shopping Center,39.25195541,-76.81662293,852
+853,Long Gate Shopping Center,39.25020923,-76.816027,853
+854,North Chatham Rd @ Baltimore National Pike,39.27838832,-76.83197867,854
+855,Chatham,39.27939189,-76.83197009,855
+856,North Chatham Rd @ Paulskirk Dr,39.28157574,-76.83190393,856
+857,Monarch Mills,39.17165161,-76.8305513,857
+858,Carters Cove,39.17129352,-76.83075139,858
+859,Oakland Mills Rd @ Malindy Cir,39.19310296,-76.83292267,859
+860,Oakland Mills Rd @ Malindy Cir,39.19301074,-76.83305506,860
+861,Oakland Mills Rd @ Berger Rd,39.17682075,-76.82778152,861
+862,Oakland Mills Rd @ Berger Rd,39.17678978,-76.82802936,862
+863,Oakland Mills Rd @ Cartersville Rd,39.1696462,-76.83069957,863
+864,Guilford Elementary School,39.16938085,-76.83057529,864
+865,Oakland Mills Rd @ Dawn Day Dr,39.20092462,-76.83468986,865
+866,Oakland Mills Rd @ Dobbin Rd,39.1847886,-76.82723565,866
+867,Oakland Mills Rd @ Dobbin Rd,39.18440415,-76.82698569,867
+868,Oakland Mills Rd @ Fairmead Ln,39.1974279,-76.83486219,868
+869,Oakland Mills Rd @ Loring Dr,39.19716571,-76.83469757,869
+870,Oakland Mills Rd @ Farewell Rd,39.20343357,-76.83435251,870
+871,Oakland Mills Rd @ Farewell Rd,39.20349277,-76.83416751,871
+872,Oakland Mills Rd @ Oak Hill Ln,39.18319534,-76.82570012,872
+873,Oakland Mills Rd @ Oak Hill Ln,39.18305335,-76.82585947,873
+874,Oakwood Business Center,39.17536869,-76.82938518,874
+875,Oakwood Business Center,39.17589553,-76.82864372,875
+876,Oakland Mills Rd @ Sewells Orchard Dr,39.20094608,-76.83452045,876
+877,Amtrak Way @ Aviation Blvd,39.18529637,-76.69032437,877
+878,Amtrak Way @ Aviation Blvd,39.18539315,-76.6907638,878
+880,Dorsey Rd @ Candlewood Dr,39.15839424,-76.70354414,880
+881,Dorsey Rd @ Candlewood Rd,39.15859,-76.70408,881
+882,Dorsey Rd @ Ashton Rd,39.15855313,-76.70843827,882
+883,Dorsey Rd @ Leeds Rd,39.15838926,-76.70846936,883
+885,Ellicott City Senior Center,39.27189814,-76.83813866,885
+886,Clocktower Ln @ Softwater Way,39.1633307,-76.84672158,886
+887,Old Columbia Rd @ Guilford Rd,39.17659547,-76.86786582,887
+888,Columbia Crossing Center @ Old Navy,39.19826638,-76.81466095,888
+889,Columbia Crossing Center @ LaMadeline,39.19679453,-76.81531124,889
+891,Dobbin Center @ Ross,39.19418932,-76.8188248,891
+892,Dobbin Center @ CapitalOne Bank,39.19538322,-76.81768895,892
+893,Gateway,39.18327475,-76.80179938,893
+894,Columbia Gateway Dr @ McAdam DR,39.18154889,-76.7995132,894
+895,Columbia Gateway Dr @ Benjamin Franklin Dr,39.17784433,-76.8003062,895
+896,Columbia Gateway Dr @ Albert Einstein Dr,39.17386151,-76.80286517,896
+897,Columbia Gateway Dr @ Samuel Morse Dr,39.17240791,-76.80673107,897
+898,Columbia Gateway Dr @ Thomas Edison Dr,39.1792229,-76.80685295,898
+899,7172 Columbia Gateway Dr,39.18169379,-76.8049166,899
+900,Howard County Health Department,39.18231463,-76.80378023,900
+902,Howard County Department of Social Services,39.1790579,-76.81013128,902
+903,Columbia Gateway Dr @ Robert Fulton Dr,39.17461745,-76.80957122,903
+904,Parkview Apts,39.19985947,-76.80944679,904
+905,Dobbin Rd @ Snowden River Pkwy,39.19674604,-76.81109914,905
+906,Restaurant Park,39.18679797,-76.80116075,906
+908,Lark Brown Rd @ Old Waterloo Rd,39.1885109,-76.79131686,908
+909,Lark Shopping Center,39.18273079,-76.78713482,909
+910,Old Waterloo Rd @ Pirch Way,39.18779527,-76.79014704,910
+911,Lark Brown Rd @ Old Waterloo Rd,39.18866194,-76.79266492,911
+912,Lark Brown Rd @ Waterloo Rd,39.1887998,-76.79567439,912
+913,Tamar Dr @ Snowden River Pkwy,39.20739366,-76.8071575,913
+914,Tamar Dr @ Old Dobbin Ln,39.20732037,-76.8120109,914
+915,Tamar Dr @ Old Dobbin Ln,39.2071894,-76.81201641,915
+916,Tamar Dr @ Snowden River Pkwy,39.20726708,-76.80739332,916
+917,Frederick Rd @ Saint Johns Ln,39.27157302,-76.82543255,917
+919,Baltimore National Pike @ St Johns Ln,39.27679308,-76.82626642,919
+920,Frederick Rd @ Saint Johns Ln,39.27142118,-76.82544843,920
+921,Anne Arundel Community College at Arundel Mall,39.16222773,-76.72456362,921
+922,MSA The Child and Adolescent Center,39.17407933,-76.85799728,922
+925,Snowden Square,39.18262635,-76.81770514,925
+926,Marie Curie Dr @ Gateway Overlook Dr,39.18668291,-76.79499489,926
+927,Little Patuxent Pkwy @ While Cord Way,39.21246829,-76.90045081,927
+928,Shaker Dr @ Seneca Farm Rd,39.18934074,-76.86895935,928
+931,Tamar Dr @ Carriage House Ln,39.20671507,-76.82647591,931
+932,MD Wholesale Food Market,39.16804103,-76.78476438,932
+933,Piney Orchard Pkwy @ Odenton Rd,39.08570353,-76.69989735,933
+934,Robinson Nature Park,39.1898118,-76.89478927,934
+936,Tamar Dr @ Carriage House Ln,39.20687018,-76.82649516,936
+937,Snowden Square,39.18255958,-76.81788377,937
+938,Whitaker Rd @ Shirley Murphy Ct,39.13667664,-76.57296852,938
+939,Rogers Ave @ Oak West Dr,39.27996601,-76.80857427,939
+940,Cherry Ln @ 4th St,39.09203257,-76.86183358,940
+941,4th St @ Green Hill Ave,39.09611314,-76.85753351,941
+942,Phelps Luck Dr @ Thurso Ct,39.21850227,-76.82340501,942
+943,Phelps Luck Dr @ Thurso Ct,39.21859036,-76.82374671,943
+944,Columbia Crossing Center @ Target,39.1965706,-76.81243174,944
+945,Stanford Blvd @ Stanford Blvd,39.19173581,-76.81705707,945
+946,Stanford Blvd @ Stanford Blvd,39.19163457,-76.81706146,946
+947,Robert Fulton Dr @ Columbia Gateway Dr,39.1759041,-76.81318413,947
+948,Robert Fulton Dr @ Columbia Gateway Dr,39.17592182,-76.8127061,948
+949,Campus Dr @ Hickory Ridge Rd,39.21098117,-76.8792347,949
+950,Campus Dr @ Hickory Ridge Rd,39.21099542,-76.87902501,950
+951,Little Patuxent Pkwy @ Lone Tree Ct,39.20691698,-76.89981721,951
+952,Cedar Ln @ Little Patuxent Pkwy,39.21600919,-76.88768904,952
+953,Sunny Spring Rd @ Misty Arch Run,39.20800579,-76.88492029,953
+957,Little Patuxent Pkwy @ Banneker Rd,39.21416543,-76.87154338,957
+958,Little Patuxent Pkwy @ Harpers Farm Rd,39.21575939,-76.87733528,958
+960,Shaker Dr @ Seneca Farm Rd,39.18947272,-76.86841908,960
+961,Thunder Hill Rd @ Mirrorlight Pl,39.21757398,-76.84068261,961
+962,Waterloo Park,39.18574584,-76.78812629,962
+963,Lark Brown Rd @ Marie Curie Dr,39.18856931,-76.79390838,963
+964,Murray Hill Rd @ Guilford Rd,39.16648796,-76.85121526,964
+965,Washington Blvd @ Prince George St,39.10321149,-76.84456979,965
+966,Washington Blvd @ Corridor Rd,39.13544254,-76.81465953,966
+967,Washington Blvd @ Gorman Rd,39.13037514,-76.81965687,967
+968,Washington Blvd @ Howard St,39.13557916,-76.81568992,968
+969,Patuxent Range Rd @ Bristol Ct,39.15003498,-76.80144825,969
+970,North Chatham Rd @ Paulskirk Dr,39.28152942,-76.83209944,970
+971,Town and Country Blvd @ West Springs Dr,39.28703087,-76.8158613,971
+972,Town and Country Blvd @ North Ridge Rd,39.28711173,-76.81982432,972
+973,Long Gate Shopping Center @ Long Gate Pkwy,39.249749,-76.81614497,973
+974,Long Gate Shopping Center,39.25185668,-76.81668932,974
+975,Columbia 100 PKWY @ Blue Wing Ct,39.23385283,-76.81608176,975
+976,Dorsey Hall Dr @ Pediatric Medical Center Entrance,39.24308928,-76.83789428,976
+977,Columbia Rd @ Brook Way,39.2296026,-76.85418562,977
+978,Columbia Rd @ April Journey Rd,39.23110049,-76.84856215,978
+979,Parkview at Owen Brown @ Cradlerock Way,39.18861704,-76.84237065,979
+981,Lincoln Tech,39.17572913,-76.83764213,981
+982,Washington Blvd @ Loudon Ave,39.19817971,-76.74011798,982
+983,Washington Blvd @ Loudon Ave,39.19838244,-76.74022361,983
+984,Washington Blvd @ Ducketts Ln,39.19692348,-76.74289631,984
+985,Washington Blvd @ Port Capital Dr,39.17470846,-76.77853982,985
+986,Washington Blvd @ Fleming St,39.16297217,-76.79317953,986
+987,Washington Blvd @ Fleming St,39.16276448,-76.79296751,987
+988,Washington Blvd @ Cooney Ln,39.18191061,-76.7665379,988
+989,Pilgrim Ave @ Harvest Way,39.11110676,-76.85402062,989
+990,Harvest Way @ Cabot Ct,39.1133896,-76.85398912,990
+991,Harvest Way @ Cross Timbers Ct,39.11382105,-76.85394079,991
+992,Harvest Way @ All Saints Rd,39.11494667,-76.855845,992
+993,Harvest Way @ All Saints Rd,39.114795,-76.855715,993
+996,8th St @ Montrose Ave,39.10054038,-76.85777993,996
+997,BWI Airport @ Friendship Rd,39.18133914,-76.67205295,997
+998,Guilford Rd @ Glen Oaks Ln,39.16353334,-76.82985333,998
+1000,Stanford Blvd @McGaw Rd,39.18735024,-76.81898598,1000
+1001,Wegmans Columbia,39.18717968,-76.81875962,1001
+1003,Little Patuxent Pkwy @ Governor Warfield Pkwy,39.21297121,-76.86847371,1003
+1004,Hickory Ridge Village Center,39.19393876,-76.88365951,1004
+1005,Harpers Farm Rd @ Gloucester Rd,39.22153833,-76.88365281,1005
+2002,Casaurina Way @ Warm Spring Way,39.0693083,-76.71025418,2002
+2003,Casaurina Way @ Warm Spring Way,39.0697257,-76.70977972,2003
+2004,Casaurina Way @ Stream Valley Dr,39.06656694,-76.71392818,2004
+2005,Casaurina Way @ Stream Valley Dr,39.06668506,-76.71403111,2005
+2006,Contee Rd @ Town Center Blvd,39.07369333,-76.84837,2006
+2007,Cradlerock Way @ Broken Staff,39.18572833,-76.84891,2007
+2008,ITT Technical Institute,39.17107576,-76.72637092,2008
+2009,Gorman Rd @ Rock Ripple Ln,39.133495,-76.83504,2009
+2010,Gorman Rd @ Rock Ripple Ln,39.13331,-76.83534,2010
+2011,Johns Hopkins Rd @ Lowell Ct,39.02583493,-76.67696281,2011
+2013,Marshall Ave @ Laurel College,39.0977364,-76.8528746,2013
+2014,Montgomery St @ St Marys Pl,39.10664,-76.85630333,2014
+2015,Nantucket Dr @ Lewistown Dr,39.03151231,-76.67641734,2015
+2019,Natl Business Pkwy @ Sentinel Way,39.12795787,-76.77101702,2019
+2020,Natl Business Pkwy @ Sentinel Dr,39.12655019,-76.77392432,2020
+2021,Natl Business Pkwy @ Technology Dr,39.12277049,-76.7759631,2021
+2022,Natl Business Pkwy @ Technology Dr,39.1228898,-76.77620729,2022
+2023,Old Annapolis Rd @ Greensboro South,39.09725374,-76.8119857,2023
+2027,Piney Orchard Pkwy @ Odenton Rd,39.08568706,-76.69921765,2027
+2028,Piney Orchard Pkwy @ Roaming Ridge Way,39.06739302,-76.7189369,2028
+2029,Piney Orchard Pkwy @ Still Forest Rd,39.06957144,-76.7132275,2029
+2031,Piney Orchard Pkwy @ Stream Valley Dr,39.06852301,-76.71502263,2031
+2032,Piney Orchard Pkwy @ Stream Valley Dr,39.06847027,-76.71571566,2032
+2033,Piney Orchard Pkwy @ Waugh Chapel Rd,39.07157993,-76.71235508,2033
+2034,Piney Orchard Pkwy @ Waugh Chapel Rd,39.07219312,-76.71153858,2034
+2035,Reece Rd @ Youth Services Building,39.11519437,-76.7209522,2035
+2036,Reece Rd @ Youth Services Building,39.11552799,-76.72031925,2036
+2037,Riedel Rd @ Vineyard Ln,39.0283931,-76.67494092,2037
+2038,Route 175 @ 20th St,39.11800415,-76.72983021,2038
+2039,Route 175 @ Blue Water Blvd,39.10056237,-76.72054189,2039
+2040,Route 175 @ Gateway Blvd,39.0797327,-76.68656273,2040
+2041,Route 175 @ Gateway Blvd,39.08014149,-76.68687955,2041
+2042,Route 175 @ Llewellyn Ave,39.100765,-76.72082667,2042
+2043,Route 175 @ Lokus Rd,39.09020167,-76.707175,2043
+2044,Route 175 @ Odenton Shopping Ctr,39.08129455,-76.68919108,2044
+2045,Route 175 @ Town Center Blvd,39.08997833,-76.70683833,2045
+2046,Route 197 @ Bowie Rd,39.089035,-76.84646415,2046
+2047,Strawberry Lake Way @ Piney Orchard Pkwy,39.06375666,-76.72199219,2047
+2048,Strawberry Lake Way @ Stream Valley Dr,39.06159007,-76.71795071,2048
+2049,Strawberry Lake Way @ Stream Valley Dr,39.06158408,-76.71769645,2049
+2050,Stream Valley Dr @ Summer Ridge Rd,39.06446424,-76.71602148,2050
+2051,Stream Valley Dr @ Summer Ridge Rd,39.0641274,-76.71604586,2051
+2052,US 1 @ Bowie Rd,39.09753852,-76.8505689,2052
+2055,Village at Waugh Chapel,39.040534,-76.67713231,2055
+2056,Village at Waugh Chapel,39.04031216,-76.67721342,2056
+2058,Waugh Chapel Rd @ Dairy Farm Rd,39.0608443,-76.69700359,2058
+2059,Waugh Chapel Rd @ Dairy Farm Rd,39.06112088,-76.69681783,2059
+2060,Waugh Chapel RD @ Old Waugh Chapel Rd,39.06753171,-76.70611954,2060
+2061,Waugh Chapel Rd @ Four Seasons Elm ,39.0518806,-76.69500437,2061
+2062,Waugh Chapel Rd @ Four Seasons Elm ,39.05202345,-76.69491709,2062
+2063,Waugh Chapel Rd @ Strawberry Lake Way,39.06349917,-76.70000603,2063
+2064,Waugh Chapel Rd @ Strawberry Lake Way,39.06349229,-76.70070713,2064
+2065,Waugh Chapel Rd @ Summerhill Dr,39.05610271,-76.69682898,2065
+2066,Waugh Chapel Rd @ Summerhill Dr,39.05615223,-76.69651636,2066
